@@ -1,0 +1,12 @@
+C:\Users\busra\source\repos\abccore\Abc.Coree\bin\Debug\net6.0\Abc.Coree.deps.json
+C:\Users\busra\source\repos\abccore\Abc.Coree\bin\Debug\net6.0\Abc.Coree.dll
+C:\Users\busra\source\repos\abccore\Abc.Coree\bin\Debug\net6.0\Abc.Coree.pdb
+C:\Users\busra\source\repos\abccore\Abc.Coree\obj\Debug\net6.0\Abc.Coree.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\abccore\Abc.Coree\obj\Debug\net6.0\Abc.Coree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\abccore\Abc.Coree\obj\Debug\net6.0\Abc.Coree.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\abccore\Abc.Coree\obj\Debug\net6.0\Abc.Coree.AssemblyInfo.cs
+C:\Users\busra\source\repos\abccore\Abc.Coree\obj\Debug\net6.0\Abc.Coree.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\abccore\Abc.Coree\obj\Debug\net6.0\Abc.Coree.dll
+C:\Users\busra\source\repos\abccore\Abc.Coree\obj\Debug\net6.0\refint\Abc.Coree.dll
+C:\Users\busra\source\repos\abccore\Abc.Coree\obj\Debug\net6.0\Abc.Coree.pdb
+C:\Users\busra\source\repos\abccore\Abc.Coree\obj\Debug\net6.0\ref\Abc.Coree.dll

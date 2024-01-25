@@ -1,0 +1,15 @@
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\bin\Debug\net6.0\Abc.Northwind.Entities.deps.json
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\bin\Debug\net6.0\Abc.Northwind.Entities.dll
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\bin\Debug\net6.0\Abc.Northwind.Entities.pdb
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\bin\Debug\net6.0\Abc.Coree.dll
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\bin\Debug\net6.0\Abc.Coree.pdb
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\obj\Debug\net6.0\Abc.Northwind.Entities.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\obj\Debug\net6.0\Abc.Northwind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\obj\Debug\net6.0\Abc.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\obj\Debug\net6.0\Abc.Northwind.Entities.AssemblyInfo.cs
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\obj\Debug\net6.0\Abc.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\obj\Debug\net6.0\Abc.Northwind.Entities.csproj.CopyComplete
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\obj\Debug\net6.0\Abc.Northwind.Entities.dll
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\obj\Debug\net6.0\refint\Abc.Northwind.Entities.dll
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\obj\Debug\net6.0\Abc.Northwind.Entities.pdb
+C:\Users\busra\source\repos\abccore\Abc.Northwind.Entities\obj\Debug\net6.0\ref\Abc.Northwind.Entities.dll

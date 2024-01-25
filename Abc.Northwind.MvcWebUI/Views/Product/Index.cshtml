@@ -1,0 +1,61 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Abc.Northwind.MvcWebUI.Models.ProductListViewModel;
+@{
+    
+    Layout ="~/Views/_Layout.cshtml";
+}
+
+            <div>
+    <table class="table table-responsive">
+                   <tr>
+                        <td>Product Name </td>  @* baslık *@
+                        <td>Unit Price </td>
+                        <td>Units in Stock</td>
+                        
+                        
+                   </tr>
+                   
+           @*  modelle gelen her bir ürün için teker teker tr oluşturmamız lazım
+            razor syntax kullanmamız gerekir. *@
+            @foreach(var product in Model.Products)
+            {
+                <tr>
+                    <td>@product.ProductName </td> 
+                    <td>@product.UnitPrice </td>
+                    <td>@product.UnitsInStock</td>
+                @* <td><a class=" btn btn-xs-btn-success" asp-controller="Cart" asp-action="AddToCart" asp-route-productId="@product.ProductId  "></a> </td> *@
+                <td><a class="btn btn-xs btn-success" asp-controller="Cart" asp-action="AddToCart" asp-route-productId="@product.ProductId">Add To Cart</a></td>
+
+            </tr>
+                
+            }
+        <product-list-pager currernt-category="@Model.CurrentCategory"
+                            current-page="@Model.CurrentPage"
+                            page-count="@Model.PageCount"
+                            page-size="@Model.PageSize"></product-list-pager>
+
+        <@* ul class='pagination'>
+            <li class='active'>
+                <a href='/product/index?page=1&category=0'>1</a>
+                </li>
+                <li class=' '>
+                    <a href='/product/index?page=2&category=0'>2</a>
+                    </li>
+                    <li class=' '><a href='/product/index?page=3&category=0'>3</a>
+                        </li>
+                    <li class=' '><a href='/product/index?page=4&category=0'>4</a>
+                        </li>
+                        <li class=' '><a href='/product/index?page=5&category=0'>5</a>
+                            </li>
+                            <li class=' '><a href='/product/index?page=6&category=0'>6</a>
+                                </li>
+                                <li class=' '><a href='/product/index?page=7&category=0'>7</a>
+                                    </li>
+                                    <li class=' '><a href='/product/index?page=8&category=0'>8</a></li> *@
+               </table>
+            </div>
+           
+        

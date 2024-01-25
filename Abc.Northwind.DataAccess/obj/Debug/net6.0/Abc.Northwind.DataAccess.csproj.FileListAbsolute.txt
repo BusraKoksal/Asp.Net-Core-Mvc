@@ -1,0 +1,17 @@
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\bin\Debug\net6.0\Abc.Northwind.DataAccess.deps.json
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\bin\Debug\net6.0\Abc.Northwind.DataAccess.dll
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\bin\Debug\net6.0\Abc.Northwind.DataAccess.pdb
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\bin\Debug\net6.0\Abc.Coree.dll
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\bin\Debug\net6.0\Abc.Northwind.Entities.dll
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\bin\Debug\net6.0\Abc.Coree.pdb
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\bin\Debug\net6.0\Abc.Northwind.Entities.pdb
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\obj\Debug\net6.0\Abc.Northwind.DataAccess.csproj.AssemblyReference.cache
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\obj\Debug\net6.0\Abc.Northwind.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\obj\Debug\net6.0\Abc.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\obj\Debug\net6.0\Abc.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\obj\Debug\net6.0\Abc.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\obj\Debug\net6.0\Abc.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\obj\Debug\net6.0\Abc.Northwind.DataAccess.dll
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\obj\Debug\net6.0\refint\Abc.Northwind.DataAccess.dll
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\obj\Debug\net6.0\Abc.Northwind.DataAccess.pdb
+C:\Users\busra\source\repos\abccore\Abc.Northwind.DataAccess\obj\Debug\net6.0\ref\Abc.Northwind.DataAccess.dll
